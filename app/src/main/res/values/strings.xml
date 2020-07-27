@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Клавис Ош</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite">Избранные</string>
+    <string name="ads">Подать Объявление</string>
+    <string name="settings">Настройки</string>
+    <string name="log_out">Выйти</string>
+    <string name="home">HomeFragment</string>
+    <string name="more">Больше</string>
+    <string name="about">О нас</string>
+    <string name="history">История заказов</string>
+    <string name="basket">Корзина</string>
+    <string name="login">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="don_t_have_an_account_sing_up">У вас нет аккаунта? Зарегистрируйтесь!</string>
+    <string name="have_an_account_sing_in">Есть аккаунт? Войдите!</string>
+    <string name="register">регистрация</string>
+    <string name="create_a_new_password">Пожалуйста введите ваш номер телефона</string>
+    <string name="create_a_new_login">Номер телефона</string>
+    <string name="kg_phone_code">+996</string>
+    <string name="btn_add">Добавить</string>
+    <string name="name">имя</string>
+    <string name="over_price">По цене</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="delete">Удалить?</string>
+    <string name="delete_this">Вы уверены, что хотите удалить это?</string>
+    <string name="delete_all_basket">В ближайшее время с вами свяжется наша служба доставки. Хотите очистить корзину?</string>
+    <string name="btn_order">Заказать</string>
+    <string name="address_dev">Адрес доставки</string>
+    <string name="total_price">Итого:</string>
+    <string name="btn_ready">Готово</string>
+    <string name="emty_basket_st">Извините, корзина пуста!</string>
+    <string name="btn_next_st">Далее</string>
+    <string name="deleted">Удалено!</string>
+    <string name="all_deleted">Все файлы удалены!</string>
+    <string name="added">Тавар добавлен в корзину!</string>
+    <string name="choose_address_delivery">Выберите ваш адрес доставки.</string>
+    <string name="call_to_nmber">Звонить по номеру.</string>
+    <string name="payment_takes_place_upon_receipt_of_the_goods">Оплата происходит при получении товара.</string>
+    <string name="total">Итого:</string>
+    <string name="currency">сом</string>
+</resources>

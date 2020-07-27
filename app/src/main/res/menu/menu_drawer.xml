@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favouriteFragment"
+        android:icon="@drawable/ic_favorite_black"
+        android:title="@string/favourite" />
+
+    <item
+        android:id="@+id/historyFragment"
+        android:icon="@drawable/ic_history_black"
+        android:title="@string/history" />
+
+
+    <item android:title="@string/more">
+        <menu>
+            <item
+                android:id="@+id/clavisCategoryFragment"
+                android:icon="@drawable/ic_electrical_service"
+                android:title="Услуги Клавис" />
+            <item
+                android:id="@+id/adsFragment"
+                android:icon="@drawable/ic_add"
+                android:title="@string/ads" />
+            <item
+                android:id="@+id/aboutFragment"
+                android:icon="@drawable/ic_about"
+                android:title="@string/about" />
+        </menu>
+    </item>
+</menu>
