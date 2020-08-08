@@ -40,4 +40,5 @@
     <string name="payment_takes_place_upon_receipt_of_the_goods">Оплата происходит при получении товара.</string>
     <string name="total">Итого:</string>
     <string name="currency">сом</string>
+    <string name="next_btn">Далее</string>
 </resources>

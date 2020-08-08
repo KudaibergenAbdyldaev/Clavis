@@ -110,6 +110,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "240193855479-ok7n1l88rgldq1p4s2sqpmujkglsgb1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clavis",
+            "certificate_hash": "fbba71f911a1eb17a5698b192f2aa18a7bff7d32"
+          }
+        },
+        {
           "client_id": "240193855479-jnbott839st4mv8f52tohlvfu7vlphis.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -283,6 +291,35 @@
         "mobilesdk_app_id": "1:240193855479:android:302b13755a6da6be9498f2",
         "android_client_info": {
           "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240193855479-jnbott839st4mv8f52tohlvfu7vlphis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHj6iJOuo3MDBN9rkMk9HLlUUKWI9ucdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240193855479-jnbott839st4mv8f52tohlvfu7vlphis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240193855479:android:e8834908c6d0ed689498f2",
+        "android_client_info": {
+          "package_name": "com.kuka.brandstorejava"
         }
       },
       "oauth_client": [
